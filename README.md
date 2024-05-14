@@ -46,7 +46,6 @@ Built with:
 * react-select-search
 * redaxios
 * use-dark-mode
-* @artsy/fresnel
 * @loadable/component
 
 ## next/image
