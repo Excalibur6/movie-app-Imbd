@@ -13,7 +13,7 @@ Clone and install the dependencies for `next-movies` locally:
 ```bash 
   git clone https://github.com/tastejs/next-movies.git
   cd next-movies 
-  npm install
+  npm install / npm install --force
 ```
 
 ## Quick setup
