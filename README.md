@@ -5,13 +5,6 @@ This is a Movies App built using Next.js, React and [The Movie Database (TMDB)](
 
 ## Demo
 
-A [live deployment](https://movies.zaps.dev) of this app is available to try it out.
-
-## Contributing
-
-Contributions are always welcome! 
-
-For large changes, please file an issue to discuss your proposed changes with us before working on a PR :)
 
 ## Installation 
 
